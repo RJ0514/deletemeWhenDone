@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/RJ0514/ARCH2_Binary_32_Converter.git"
+    "url": "git+https://github.com/RJ0514/deletemeWhenDone.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/RJ0514/ARCH2_Binary_32_Converter/issues"
+    "url": "https://github.com/RJ0514/deletemeWhenDone/issues"
   },
-  "homepage": "https://github.com/RJ0514/ARCH2_Binary_32_Converter#readme",
+  "homepage": "https://github.com/RJ0514/deletemeWhenDone#readme",
   "dependencies": {
     "express": "^4.18.2",
     "nodemon": "^2.0.22",
